@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+boto3
+rasterio
+numpy
+opencv-python-headless
+folium
+matplotlib
+python-dotenv
+Pillow
+shapely
