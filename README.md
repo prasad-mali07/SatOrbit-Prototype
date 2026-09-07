@@ -98,6 +98,7 @@ The dataset contains multi-temporal satellite images and corresponding change la
 The local dataset may contain:
 
 ```text
+https://ieee-dataport.org/open-access/oscd-onera-satellite-change-detection
 data/
 └── OSCD/
     ├── Onera Satellite Change Detection dataset - Images/
