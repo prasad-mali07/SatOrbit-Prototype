@@ -1,0 +1,79 @@
+{
+    "2016": {
+        "scene_id": "S2A_MSIL2A_20161231T053222_N0500_R105_T43QCA_20230924T022539",
+        "datetime": "2016-12-31T05:32:22.026000Z",
+        "cloud_cover": 0.0,
+        "platform": "sentinel-2a",
+        "collection": "sentinel-2-l2a"
+    },
+    "2017": {
+        "scene_id": "S2B_MSIL2A_20171231T053219_N0500_R105_T43QCA_20230926T061238",
+        "datetime": "2017-12-31T05:32:19.027Z",
+        "cloud_cover": 0.0,
+        "platform": "sentinel-2b",
+        "collection": "sentinel-2-l2a"
+    },
+    "2018": {
+        "scene_id": "S2A_MSIL2A_20181221T053231_N0500_R105_T43QCA_20230731T155242",
+        "datetime": "2018-12-21T05:32:31.024000Z",
+        "cloud_cover": 0.0,
+        "platform": "sentinel-2a",
+        "collection": "sentinel-2-l2a"
+    },
+    "2019": {
+        "scene_id": "S2B_MSIL2A_20191231T053229_N0500_R105_T43QCA_20230608T063138",
+        "datetime": "2019-12-31T05:32:29.024000Z",
+        "cloud_cover": 0.0,
+        "platform": "sentinel-2b",
+        "collection": "sentinel-2-l2a"
+    },
+    "2020": {
+        "scene_id": "S2A_MSIL2A_20201230T053231_N0500_R105_T43QCA_20230313T051202",
+        "datetime": "2020-12-30T05:32:31.024000Z",
+        "cloud_cover": 0.0,
+        "platform": "sentinel-2a",
+        "collection": "sentinel-2-l2a"
+    },
+    "2021": {
+        "scene_id": "S2B_MSIL2A_20211220T053229_N0500_R105_T43QCA_20221225T161551",
+        "datetime": "2021-12-20T05:32:29.024000Z",
+        "cloud_cover": 0.0,
+        "platform": "sentinel-2b",
+        "collection": "sentinel-2-l2a"
+    },
+    "2022": {
+        "scene_id": "S2B_MSIL2A_20220330T052639_N0510_R105_T43QCA_20240522T115955",
+        "datetime": "2022-03-30T05:26:39.024Z",
+        "cloud_cover": 0.0,
+        "platform": "sentinel-2b",
+        "collection": "sentinel-2-l2a"
+    },
+    "2023": {
+        "scene_id": "S2A_MSIL2A_20230519T052651_N0510_R105_T43QCA_20240903T210209",
+        "datetime": "2023-05-19T05:26:51.024000Z",
+        "cloud_cover": 0.0,
+        "platform": "sentinel-2a",
+        "collection": "sentinel-2-l2a"
+    },
+    "2024": {
+        "scene_id": "S2A_MSIL2A_20241129T053201_N0511_R105_T43QCA_20241129T085053",
+        "datetime": "2024-11-29T05:32:01.025000Z",
+        "cloud_cover": 0.0,
+        "platform": "sentinel-2a",
+        "collection": "sentinel-2-l2a"
+    },
+    "2025": {
+        "scene_id": "S2C_MSIL2A_20251214T053241_N0511_R105_T43QCA_20251214T090710",
+        "datetime": "2025-12-14T05:32:41.025000Z",
+        "cloud_cover": 0.0,
+        "platform": "sentinel-2c",
+        "collection": "sentinel-2-l2a"
+    },
+    "2026": {
+        "scene_id": "S2C_MSIL2A_20260423T053021_N0512_R105_T43QCA_20260423T103511",
+        "datetime": "2026-04-23T05:30:21.025000Z",
+        "cloud_cover": 0.0,
+        "platform": "sentinel-2c",
+        "collection": "sentinel-2-l2a"
+    }
+}

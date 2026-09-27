@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Models / checkpoints
+*.pth
+*.pt
+*.ckpt
+checkpoints/
+
+# RemoteCLIP
+RemoteCLIP/checkpoints/
+
+# Satellite data
+*.jp2
+*.tif
+*.tiff
+*.zip
+
+# SatOrbit local data
+C:\SATORBITDATA/
+SATORBITDATA/
+data/
+outputs/
+
+# IDE
+.vscode/
+.vs/
+
+# Logs
+*.log
+
+# OS
+Thumbs.db
+.DS_Store
