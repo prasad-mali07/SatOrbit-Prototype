@@ -1,24 +1,28 @@
+# Environment / secrets
+.env
+.env.*
+
 # Python
 __pycache__/
 *.py[cod]
-*.pyo
 .venv/
 venv/
 env/
 
-# Environment / secrets
-.env
-.env.*
-!.env.example
+# IDE
+.vscode/
+.idea/
 
-# Models / checkpoints
+# Large ML model files
 *.pth
 *.pt
 *.ckpt
-checkpoints/
+*.onnx
+*.safetensors
 
-# RemoteCLIP
-RemoteCLIP/checkpoints/
+# RemoteCLIP local repository and checkpoints
+RemoteCLIP/
+!RemoteCLIP/README.md
 
 # Satellite data
 *.jp2
@@ -27,18 +31,13 @@ RemoteCLIP/checkpoints/
 *.zip
 
 # SatOrbit local data
-C:\SATORBITDATA/
 SATORBITDATA/
-data/
-outputs/
 
-# IDE
-.vscode/
-.vs/
+# Generated outputs
+semantic_search_results/
+change_maps/
+derived/
 
-# Logs
-*.log
-
-# OS
+# OS files
 Thumbs.db
 .DS_Store
